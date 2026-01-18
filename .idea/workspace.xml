@@ -6,8 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="898ade67-f9cf-4c25-953a-cc2efb90ddfc" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/ecommerce/project/controller/CategoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ecommerce/project/controller/CategoryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ecommerce/project/payload/CategoryResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ecommerce/project/payload/CategoryResponse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/ecommerce/project/service/CategoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ecommerce/project/service/CategoryService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/ecommerce/project/service/CategoryServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ecommerce/project/service/CategoryServiceImpl.java" afterDir="false" />
     </list>
@@ -73,6 +73,9 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2fJ8K1EKGAVTxl6Eo6OeRb6hyn6" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="flattenPackages" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -80,7 +83,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.SbEcomApplication.executor": "Run",
+    "Application.SbEcomApplication.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "/Users/niraj/Desktop/Niraj/Ecommerce_Application",
@@ -148,7 +151,7 @@
       <option name="presentableId" value="Default" />
       <updated>1713507753059</updated>
       <workItem from="1768726184799" duration="1457000" />
-      <workItem from="1768727668568" duration="3327000" />
+      <workItem from="1768727668568" duration="9073000" />
     </task>
     <servers />
   </component>
@@ -187,6 +190,17 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ecommerce/project/controller/CategoryController.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
