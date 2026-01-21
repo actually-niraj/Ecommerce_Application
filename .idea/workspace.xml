@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="898ade67-f9cf-4c25-953a-cc2efb90ddfc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ecommerce/project/config/AppConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ecommerce/project/config/AppConstants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ecommerce/project/controller/CategoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ecommerce/project/controller/CategoryController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ecommerce/project/service/CategoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ecommerce/project/service/CategoryService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ecommerce/project/service/CategoryServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ecommerce/project/service/CategoryServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,12 +48,12 @@
     &quot;assignee&quot;: &quot;faisalmemon1991&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/actually-niraj/Ecommerce_Application.git",
-    "accountId": "f86190ce-7ff5-40ce-b095-cef5858629e4"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/actually-niraj/Ecommerce_Application.git&quot;,
+    &quot;accountId&quot;: &quot;f86190ce-7ff5-40ce-b095-cef5858629e4&quot;
   }
-}]]></component>
+}</component>
   <component name="KubernetesApiPersistence">{}</component>
   <component name="KubernetesApiProvider">{
   &quot;isMigrated&quot;: true
@@ -82,8 +79,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.SbEcomApplication.executor": "Debug",
+    "Application.SbEcomApplication.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "/Users/niraj/Desktop/Niraj/Ecommerce_Application",
     "node.js.detected.package.eslint": "true",
@@ -150,7 +148,9 @@
       <option name="presentableId" value="Default" />
       <updated>1713507753059</updated>
       <workItem from="1768726184799" duration="1457000" />
-      <workItem from="1768727668568" duration="13798000" />
+      <workItem from="1768727668568" duration="16278000" />
+      <workItem from="1768843548498" duration="12000" />
+      <workItem from="1768975382855" duration="955000" />
     </task>
     <servers />
   </component>
