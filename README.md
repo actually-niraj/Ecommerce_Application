@@ -40,9 +40,9 @@ It supports separate **Customer**, **Seller**, and **Admin** portals with real-t
 | DevOps (optional) | Docker, AWS |
 
 ---
+## 📁 Project Structure
 
-## 📍 Project Structure
-
+```
 Ecommerce_Application/
 ├── backend/                     # Spring Boot services
 │   ├── customer-service/        # Customer microservice
@@ -58,8 +58,10 @@ Ecommerce_Application/
 │
 ├── scripts/                     # Deployment & configuration scripts
 ├── .gitignore
-├── pom.xml
+├── pom.xml                      # Maven parent configuration
 └── README.md
+```
+
 
 
 
