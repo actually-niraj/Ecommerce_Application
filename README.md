@@ -44,17 +44,19 @@ It supports separate **Customer**, **Seller**, and **Admin** portals with real-t
 ## 📍 Project Structure
 
 Ecommerce_Application/
-├── backend/ # Spring Boot services
-│ ├── customer-service
-│ ├── seller-service
-│ ├── admin-service
-│ └── common-auth
-├── frontend/ # React + Redux app
-│ ├── customer-portal
-│ ├── seller-portal
-│ ├── admin-portal
-│ └── shared-components
-├── scripts/ # Deployment / config scripts
+├── backend/                     # Spring Boot services
+│   ├── customer-service/        # Customer microservice
+│   ├── seller-service/          # Seller microservice
+│   ├── admin-service/           # Admin microservice
+│   └── common-auth/             # Shared authentication & security
+│
+├── frontend/                    # React + Redux application
+│   ├── customer-portal/         # Customer UI
+│   ├── seller-portal/           # Seller dashboard
+│   ├── admin-portal/            # Admin dashboard
+│   └── shared-components/       # Reusable UI components
+│
+├── scripts/                     # Deployment & configuration scripts
 ├── .gitignore
 ├── pom.xml
 └── README.md
